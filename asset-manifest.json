@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RobotFriends/static/css/main.7e6016d9.chunk.css",
+    "main.js": "/RobotFriends/static/js/main.55c4db35.chunk.js",
+    "main.js.map": "/RobotFriends/static/js/main.55c4db35.chunk.js.map",
+    "runtime-main.js": "/RobotFriends/static/js/runtime-main.864bfd7d.js",
+    "runtime-main.js.map": "/RobotFriends/static/js/runtime-main.864bfd7d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/RobotFriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a98415d0.chunk.js": "/RobotFriends/static/js/2.a98415d0.chunk.js",
+    "static/js/2.a98415d0.chunk.js.map": "/RobotFriends/static/js/2.a98415d0.chunk.js.map",
+    "index.html": "/RobotFriends/index.html",
+    "precache-manifest.6bda55046d704012f21b66ac73bc6af6.js": "/RobotFriends/precache-manifest.6bda55046d704012f21b66ac73bc6af6.js",
+    "service-worker.js": "/RobotFriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/RobotFriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.7e6016d9.chunk.css.map": "/RobotFriends/static/css/main.7e6016d9.chunk.css.map",
+    "static/js/2.a98415d0.chunk.js.LICENSE": "/RobotFriends/static/js/2.a98415d0.chunk.js.LICENSE",
+    "static/media/App.css": "/RobotFriends/static/media/Strawberry Shortcake Supplement Logo.2e5ec5b3.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864bfd7d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a98415d0.chunk.js",
+    "static/css/main.7e6016d9.chunk.css",
+    "static/js/main.55c4db35.chunk.js"
+  ]
+}
